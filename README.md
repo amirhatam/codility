@@ -6,8 +6,8 @@
 
 Javascript solutions for Code Challanges and Interview Questions.
 
-`Lesson 1`
+#### `Lesson 1`
 
-#### Iterations
+## Iterations
 
-`BinaryGap`
+### `BinaryGap`
