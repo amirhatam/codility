@@ -6,7 +6,9 @@
 
 Javascript solutions for Code Challanges and Interview Questions.
 
+```bash
 #### `Lesson 1`
+```
 
 ## Iterations
 
