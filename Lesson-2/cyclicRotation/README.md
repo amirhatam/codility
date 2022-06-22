@@ -1,6 +1,6 @@
 #### `Lesson 2`
 
-# Iterations
+# Arrays
 
 ### `CyclicRotation`
 
