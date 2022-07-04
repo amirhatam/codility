@@ -3,13 +3,11 @@ function solution(A) {
     // var sumRight = A.reduce(function (pv, cv, idx) { return (idx > 0) ? pv + cv : 0; }, 0);
     var sumRight = A.reduce(function (pv, e, i) {
         if (i > 0) {
-
             return pv + e
         } else {
             return 0
         }
     }, 0);
-    // console.log('res', sumRight);
 
     var sumLeft = 0;
     var maxI = A.length - 1;
