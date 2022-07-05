@@ -11,7 +11,7 @@ const solution = (arr) => {
 // console.log(solution([2, 3, 1, 5]));
 
 
-//Second Solution, Total score: 80 % 
+//Seconde Solution, Total score: 80 % 
 function solutionTwo(A) {
     let len = A.length
 

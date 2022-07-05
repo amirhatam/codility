@@ -58,3 +58,19 @@ Find the missing element in a given permutation.
 Minimize the value `|(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|`.
 
 ##
+
+#### `Lesson 4`
+
+### Counting Elements
+
+Tasks :
+
+#### `FrogRiverOne`
+
+Find the earliest time when a frog can jump to the other side of a river.
+
+#### `PermCheck`
+
+Check whether array A is a permutation.
+
+##
