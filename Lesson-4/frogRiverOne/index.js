@@ -31,5 +31,4 @@ function solutionB(X, A) {
     return res
 }
 
-// solutionB(5, [1, 3, 1, 4, 2, 3, 5, 4])
 console.log(solutionB(5, [1, 3, 1, 4, 2, 3, 5, 4]));
