@@ -74,3 +74,15 @@ Find the earliest time when a frog can jump to the other side of a river.
 Check whether array A is a permutation.
 
 ##
+
+#### `Lesson 5`
+
+### Prefix Sums
+
+Tasks :
+
+#### `PassingCars`
+
+Count the number of passing cars on the road.
+
+##
